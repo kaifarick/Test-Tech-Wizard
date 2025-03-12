@@ -1,3 +1,4 @@
+Техническое задание: мультиплеер
 
 https://assetstore.unity.com/packages/tools/network/fish-net-networking-evolved-207815
 https://fish-networking.gitbook.io/docs/
